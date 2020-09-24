@@ -1,3 +1,10 @@
+1 - выполнить " composer install " <br>
+2 - переименовать .env.example в .env <br>
+3 - в .env вставить учетные данные вашей базы данных <br>
+4 - выполнить " php artisan migrate " <br>
+5 - выполнить " php artisan serve " <br>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
