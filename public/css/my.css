@@ -1,0 +1,148 @@
+body{
+    min-width: 642px;
+    font-family: 'Roboto', sans-serif;
+}
+/* ========================================== */
+/* ================= Header ================= */
+.header, .footer{
+    background-color: rgb(249,249,249);
+}
+
+.header .left_block {
+    display: inline-block;
+    margin-left: 109px;
+    margin-top: 39px;
+}
+
+.header .left_block .contact {
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.header .left_block .contact .email {
+    margin-top: 13px;
+}
+
+.header .left_block .title{
+    margin-top: 80px;
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.header .right_block{
+    display: inline-block;
+    width: 229px;
+    height: 273px;
+    float: right;
+    padding-top: 23px;
+    padding-bottom: 34px;
+    padding-right: 107px;
+}
+
+.my_hr{
+    height: 17px;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    background-image: url(/storage/images/hr.png);
+}
+/* ================= End Header ================= */
+/* ============================================== */
+
+
+
+/* =========================================== */
+/* ================= Content ================= */
+.content{
+    background-color: rgb(238, 238, 238);
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-bottom: 55px;
+}
+
+.div_for_new_comment{
+    width: 462px;
+    display: inline-block;
+}
+.title_new_comment{
+    font-weight: 400;
+    font-size: 24px;
+}
+.name_new_comment{
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 16px;
+    margin-top: 22px;
+}
+
+.div_text_new_comment{
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 13px;
+    margin-top: 22px;
+}
+
+.one_comment{
+    margin-bottom: 27px;
+}
+.one_comment .author{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.one_comment .date_of_create{
+    font-weight: 300;
+    font-size: 11px;
+    margin-left: 41px;
+}
+.text_one_comment{
+    font-weight: 300;
+    font-size: 14px;
+    margin-top: 17px;
+}
+/* ================= End Content ================= */
+/* =============================================== */
+
+
+
+/* ========================================== */
+/* ================= Footer ================= */
+.footer{
+    vertical-align: top;
+}
+
+.footer .img_footer{
+    display: inline-block;
+    vertical-align: bottom;
+    padding-left: 112px;
+    padding-bottom: 14px;
+    padding-top: 18px;
+}
+
+.footer .contact_copyright_footer{
+    display: inline-block;
+    vertical-align: bottom;
+    margin-left: 37px;
+}
+
+.footer .contact_copyright_footer .contact_footer{
+    font-weight: 700;
+    font-size: 12px;
+    padding-top: 32px;
+}
+
+.contact_footer .one_contact{
+    margin-top: 8px;
+}
+
+.footer .contact_copyright_footer .copyright{
+    margin-top: 18px;
+    font-weight: 400;
+    font-size: 12px;
+}
+/* ================= End Footer ================= */
+/* ============================================== */
+
+
+.t_align_r{
+    text-align: right
+}
